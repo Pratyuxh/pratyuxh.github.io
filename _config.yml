@@ -15,7 +15,7 @@ picture: assets/images/profile.jpeg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1KevD1se5NE1ZerMFvc2L97UTN1GVAA0t/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1_8mcX6wl_33zt1e7cSTKwulHpn4eeRn_/view?usp=sharing
 url: https://pratyuxh.github.io
 
 permalink: /:title/
@@ -33,7 +33,7 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-instagram: prxtyushsharma
+# instagram: prxtyushsharma
 linkedin: pratyuxhsharma
 spotify: 31znhzt5pcpshrc3fep6mqcd56me
 github: Pratyuxh
